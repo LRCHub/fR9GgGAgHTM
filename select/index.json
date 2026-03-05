@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "空のグラス",
+  "base_artist": "Neo",
+  "createdAt": "2026-03-05T12:06:50.230738Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空のグラス (feat. Nqsi)",
+      "artist": "Neo",
+      "has_synced": false,
+      "path": "select/pl_01_空のグラス_(feat._Nqsi)_Neo.txt"
+    }
+  ]
+}
